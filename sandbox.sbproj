@@ -1,0 +1,23 @@
+{
+  "Title": "Sandbox++",
+  "Type": "game",
+  "Org": "softsplit",
+  "Ident": "sandbox",
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": "/menu/*\n*.vmdl_c.png\nentity/*.png",
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "IsWhitelistDisabled": false,
+  "Metadata": {
+    "MaxPlayers": 32,
+    "MinPlayers": 1,
+    "CsProjName": "",
+    "ControlModes": {},
+    "LaunchMode": "Normal",
+    "StartupScene": "scenes/menu.scene",
+    "MapStartupScene": "scenes/game.scene",
+    "ParentPackage": "",
+    "DedicatedServerStartupScene": "scenes/game.scene"
+  }
+}
