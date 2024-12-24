@@ -1,8 +1,13 @@
-# Sandbox Classic
-Sandbox for the scene system.
+# Sandbox++
+> [!NOTE]
+> Looking for the classic, pre-retooling edition of Sandbox? Check out [Sandbox Classic](https://github.com/Softsplit/sandbox-classic).
+
+A heavily work-in-progress successor to the original Garry's Mod gamemode, Sandbox, built on S&box.
+
+All contributions are welcome. For discussions, please join our [Discord](https://discord.gg/rbCJdZjewf) server.
 
 ## Credits
-Based on the original Sandbox by Facepunch
+Based on the original Garry's Mod by Facepunch
 
 ### Programming
 * Asphaltian - Base, Weapons, UI
