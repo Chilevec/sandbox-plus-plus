@@ -1,6 +1,6 @@
 # Sandbox++
 > [!NOTE]
-> Looking for the classic, pre-retooling edition of Sandbox? Check out [Sandbox Classic](https://github.com/Softsplit/sandbox-classic).
+> Looking for the pre-retooling edition of Sandbox? Check out [Sandbox Classic](https://github.com/Softsplit/sandbox-classic).
 
 A heavily work-in-progress successor to the original Garry's Mod gamemode, Sandbox, built on S&box.
 
