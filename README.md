@@ -1,4 +1,4 @@
-# Sandbox++
+# ![Sandbox++](http://files.softsplit.org/sandboxplusplus_nobg.png)
 > [!NOTE]
 > Looking for the pre-retooling edition of Sandbox? Check out [Sandbox Classic](https://github.com/Softsplit/sandbox-classic).
 
