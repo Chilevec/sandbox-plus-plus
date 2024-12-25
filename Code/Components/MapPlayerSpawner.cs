@@ -9,7 +9,7 @@ public sealed class MapPlayerSpawner : Component
 
 		// NOTE: This is mostly a workaround because I can't be bothered
 		// to check if it's the game scene or not.
-		Networking.CreateLobby( new LobbyConfig() { Name = "Sandbox Classic Server" } );
+		Networking.CreateLobby( new LobbyConfig() { Name = "Sandbox++ Server" } );
 	}
 
 	protected override void OnEnabled()
